@@ -10,20 +10,14 @@ Original file is located at
 a=5
 b=10
 
-"""# Addition
-
-"""
-
+# Addition
 a+b
 
-"""# Multiplication"""
-
+# Multiplication
 a*b
 
-"""# Division"""
-
+# Division
 a/b
 
-"""# Exponentiation"""
-
+# Exponentiation
 a**b
